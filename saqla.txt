@@ -1,0 +1,9 @@
+Sana	Ishchi	Holat	Foydalanuvchi
+----------------------------------------------------
+2025-10-15 16:33:10	Ibrohimjon	Keldi	hoji
+2025-10-16 09:12:53	Ibrohimjon	Keldi	hoji
+2025-10-16 09:17:05	Abror	Keldi	hoji
+2025-10-16 09:17:14	Zarifa	Keldi	hoji
+2025-10-16 09:17:19	Gulnoza	Keldi	hoji
+2025-10-16 09:17:25	Yulduzoy	Keldi	hoji
+2025-10-16 10:09:21	Zulfizar	Keldi	admin
